@@ -7,4 +7,5 @@ About Web App
 6) open terminal
 6) Repository (.git)
     git init
-    
+
+7) Commit 
