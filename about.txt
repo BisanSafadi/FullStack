@@ -1,0 +1,10 @@
+About Web App
+1) install Git
+2) check Git install Git --version
+3) git config --global user.name BisanSafadi
+4) git config --global user.email bisan26.06@gmail.com 
+5) open folder in vscode FullStack
+6) open terminal
+6) Repository (.git)
+    git init
+    
