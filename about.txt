@@ -9,3 +9,5 @@ About Web App
     git init
 
 7) Commit 
+
+8) update (modified) version
